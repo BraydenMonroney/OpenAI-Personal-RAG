@@ -5,11 +5,20 @@ This is an Openai RAG bot that is linked to an Openai API. You can upload any pd
 
 
 
-python -m venv .venv
-Pip install chromadb
-Pip install pypdf
-Pip install pytest
-Pip install langchain
-pip install langchain-community
-pip install openai
-pip install langchain_openai
+`python -m venv .venv`
+
+`ollama pull mistral`
+
+`Pip install chromadb`
+
+`Pip install pypdf`
+
+`Pip install pytest`
+
+`Pip install langchain`
+
+`pip install langchain-community`
+
+`pip install openai`
+
+`pip install langchain_openai`
